@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/user/Documents/mlflow-tutorial/mlruns/0/9a4b4dc0036042e59eb57fe5b619c0ea/artifacts
+end_time: 1615117166818
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 9a4b4dc0036042e59eb57fe5b619c0ea
+run_uuid: 9a4b4dc0036042e59eb57fe5b619c0ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1615117166674
+status: 3
+tags: []
+user_id: user

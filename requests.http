@@ -1,0 +1,17 @@
+POST http://127.0.0.1:5000/invocations
+Accept: application/json
+Content-Type: application/json
+
+{
+  "columns": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m"],
+  "data": [[18.0846, 0.0, 18.1, 0.0, 0.679, 6.434, 100.0, 1.8347, 24.0, 666.0, 20.2, 27.25, 29.05]]
+}
+
+###
+POST http://127.0.0.1:5000/invocations
+Accept: application/json
+Content-Type: application/json
+
+{
+  "data": [[18.04, 0.0, 18.1, 0.0, 0.679, 6.434, 100.0, 1.8347, 24.0, 666.0, 20.2, 27.25, 29.05]]
+}
